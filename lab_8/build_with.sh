@@ -1,0 +1,1 @@
+gcc -masm=intel -fPIE -fno-inline -m80387 -O0 main.c -o app.exe -lm

@@ -1,0 +1,1 @@
+g++ -std=c++20 -masm=intel -fPIE -O0 main.cpp -o app.exe -lm
